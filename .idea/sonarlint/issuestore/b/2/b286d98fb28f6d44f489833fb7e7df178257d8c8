@@ -1,0 +1,20 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "vajsvha@2" 3 times.(ïíç‹8ßŸ¥ã1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "211212!" 3 times.(ïíç‹8áŸ¥ã1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆæÊ™ùÿÿÿÿ8ãŸ¥ã1
+Y
+java:S1854"<Remove this useless assignment to local variable "usuario3".(²Æİ‘8óŸ¥ã1
+Y
+java:S1854
+"<Remove this useless assignment to local variable "usuario2".(“Şì·8ôŸ¥ã1
+Y
+java:S1854"<Remove this useless assignment to local variable "usuario1".(™©ÈÕ8ôŸ¥ã1
+J
+java:S1481"-Remove this unused "usuario1" local variable.(™©ÈÕ8ûŸ¥ã1
+J
+java:S1481
+"-Remove this unused "usuario2" local variable.(“Şì·8ıŸ¥ã1
+J
+java:S1481"-Remove this unused "usuario3" local variable.(²Æİ‘8ÿŸ¥ã1

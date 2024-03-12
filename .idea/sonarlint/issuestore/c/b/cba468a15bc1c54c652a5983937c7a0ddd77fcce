@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆæÊ™ùÿÿÿÿ8¤çö¤ã1
+[
+java:S5993
+"9Change the visibility of this constructor to "protected".( Ã¸Ìýÿÿÿÿ8Åçö¤ã1
+L
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8Ôçö¤ã1
+I
+java:S1068",Remove this unused "apellido" private field.(åÔÐÁ8Õçö¤ã1
+J
+java:S1068"(Remove this unused "sexo" private field.(¤ßäŒúÿÿÿÿ8Öçö¤ã1
+O
+java:S1068"-Remove this unused "direccion" private field.(“’’öÿÿÿÿÿ8Øçö¤ã1
+R
+java:S1068"5Remove this unused "correoElectrinico" private field.(ÈñÙù8Ýçö¤ã1
+I
+java:S1068	",Remove this unused "telefono" private field.(›š´Æ8ßçö¤ã1
