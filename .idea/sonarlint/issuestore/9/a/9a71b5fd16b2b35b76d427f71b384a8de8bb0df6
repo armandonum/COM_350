@@ -1,9 +1,9 @@
 
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆæÊ™ùÿÿÿÿ8øÒÕ¤ã1
 ƒ
-java:S4165"aRemove this useless assignment; "rol" already holds the assigned value along all execution paths.(²„÷öşÿÿÿÿ8ìÓë¤ã1
-ƒ
 java:S4165"fRemove this useless assignment; "password" already holds the assigned value along all execution paths.(÷ã´½8ãÓë¤ã1
+ƒ
+java:S4165"aRemove this useless assignment; "rol" already holds the assigned value along all execution paths.(²„÷öşÿÿÿÿ8ìÓë¤ã1
 £
 java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹‡í¬ûÿÿÿÿ8ÓÕ¤ã1
 £

@@ -6,6 +6,7 @@ java:S1186"€Add a nested comment explaining why this method is empty, throw a
 java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ώ…Εώÿÿÿÿ8„Σ»¤γ1
 £
 java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ο’ψÿÿÿÿ8…Σ»¤γ1
+]	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(έθÿ8ύΏό¥γ1
 G
 java:S1068"*Remove this unused "puntos" private field.(άμ™Δ8–Σ»¤γ1
 N

@@ -1,0 +1,21 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äº œüÿÿÿÿ8êË¹ã1
+G	java:S106	"+Replace this use of System.out by a logger.(¹ÙÇ¨8ªÌ¹ã1
+G	java:S106
+"+Replace this use of System.out by a logger.(½ĞË¿8¬Ì¹ã1
+L	java:S106"+Replace this use of System.out by a logger.(ÛøÄ½úÿÿÿÿ8­Ì¹ã1
+G	java:S106"+Replace this use of System.out by a logger.(·õöï8®Ì¹ã1
+L	java:S106"+Replace this use of System.out by a logger.(¾Àøæÿÿÿÿÿ8´Ì¹ã1
+L	java:S106"+Replace this use of System.out by a logger.(¶éôõúÿÿÿÿ8¶Ì¹ã1
+G	java:S106"+Replace this use of System.out by a logger.(õ‘±™8¸Ì¹ã1
+L	java:S106"+Replace this use of System.out by a logger.(‰ÚÕàüÿÿÿÿ8ºÌ¹ã1
+L	java:S106"+Replace this use of System.out by a logger.(ÙÅƒÏùÿÿÿÿ8ÁÌ¹ã1
+F	java:S106""+Replace this use of System.out by a logger.(¶å8ÄÌ¹ã1
+p
+java:S6201%"NReplace this instanceof check and cast with 'instanceof Estudiante estudiante'(Á„”ÿÿÿÿÿ8ÆÌ¹ã1
+G	java:S106'"+Replace this use of System.out by a logger.(¨›Ó8ÈÌ¹ã1
+j
+java:S6201("HReplace this instanceof check and cast with 'instanceof Docente docente'(¦ÅÊ¤şÿÿÿÿ8è¢¹ã1
+G	java:S106*"+Replace this use of System.out by a logger.(õòìÀ8ÌÌ¹ã1
+g
+java:S6201+"JReplace this instanceof check and cast with 'instanceof Director director'(–å­×8ºË«¹ã1
